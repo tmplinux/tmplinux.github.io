@@ -2,13 +2,13 @@
 Export your containers or make your changes permanant.
 Options:
 1. Make an squashfs and...
-* 1.1 put it in /srv/containers               --srv, -s
-* 1.2 put it in /var/lib/tmplinux             --def, -d
+* 1.1 put it in `/srv/containers`               (`--srv, -s`)
+* 1.2 put it in `/var/lib/tmplinux`             (`--def, -d`)
 * 1.3 put it in the current working directory (default)
 
 2. Copy the rootfs to an folder and...
-* 2.1 put it in /srv/chroots                  (default)
-* 2.2 put it in the current working directory --cwd, -c
+* 2.1 put it in `/srv/chroots`                  (default)
+* 2.2 put it in the current working directory (`--cwd, -c`)
 
 ## Syntax
 ```
