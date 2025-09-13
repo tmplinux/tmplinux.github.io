@@ -3,13 +3,13 @@ Even though debian is usually much bigger, with the really minimal install we ha
 
 ## Speed
 ### First time (bootstrap/download)
-Downloading Packages & setting stuff up - 30s
-Squashing - 4s
-Booting - 2s
-Logging in - 4s
-Overall: 36s
+- Downloading Packages & setting stuff up - 30s
+- Squashing - 4s
+- Booting - 2s
+- Logging in - 4s
+- Overall: 36s
 ### After first-time
-Unsquashing - 0.66s
-Booting - 1.25s
-Logging in - 1.60s
-Overall: 4s
+- Unsquashing - 0.66s
+- Booting - 1.25s
+- Logging in - 1.60s
+- Overall: 4s
